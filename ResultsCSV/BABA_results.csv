@@ -1,0 +1,14 @@
+Timestamp,Stock,Parameters,Cross-Val Accuracy,Test Accuracy,Training Time (s)
+2025-03-08 15:13:20,BABA,"{""class_weight"": null, ""max_depth"": 100, ""max_features"": ""log2"", ""min_samples_leaf"": 28, ""min_samples_split"": 15, ""n_estimators"": 52}",0.6125,0.6074,700.85
+2025-03-09 14:38:42,BABA,"{""class_weight"": null, ""max_depth"": 30, ""max_features"": ""log2"", ""min_samples_leaf"": 5, ""min_samples_split"": 3, ""n_estimators"": 278}",0.55,0.5989,8.5
+2025-03-09 14:38:56,BABA,"{""class_weight"": null, ""max_depth"": 15, ""max_features"": null, ""min_samples_leaf"": 10, ""min_samples_split"": 50, ""n_estimators"": 341}",0.5598,0.6017,21.77
+2025-03-09 14:39:38,BABA,"{""class_weight"": null, ""max_depth"": 40, ""max_features"": null, ""min_samples_leaf"": 17, ""min_samples_split"": 45, ""n_estimators"": 361}",0.6059,0.5989,64.57
+2025-03-09 14:43:21,BABA,"{""class_weight"": null, ""max_depth"": 70, ""max_features"": ""sqrt"", ""min_samples_leaf"": 29, ""min_samples_split"": 7, ""n_estimators"": 165}",0.6085,0.6304,287.69
+2025-03-09 14:46:20,BABA,"{""class_weight"": null, ""max_depth"": 30, ""max_features"": ""log2"", ""min_samples_leaf"": 28, ""min_samples_split"": 32, ""n_estimators"": 85}",0.6085,0.6304,465.91
+2025-03-09 14:49:59,BABA,"{""class_weight"": null, ""max_depth"": 70, ""max_features"": ""sqrt"", ""min_samples_leaf"": 27, ""min_samples_split"": 11, ""n_estimators"": 80}",0.6097,0.6074,685.48
+2025-03-09 15:10:59,BABA,"{""class_weight"": null, ""max_depth"": 20, ""max_features"": null, ""min_samples_leaf"": 29, ""min_samples_split"": 19, ""n_estimators"": 62}",0.6112,0.5931,1945.68
+2025-03-09 15:25:02,BABA,"{""class_weight"": null, ""max_depth"": 200, ""max_features"": null, ""min_samples_leaf"": 30, ""min_samples_split"": 6, ""n_estimators"": 92}",0.6121,0.5989,2788.13
+2025-03-09 15:56:00,BABA,"{""class_weight"": null, ""max_depth"": null, ""max_features"": ""log2"", ""min_samples_leaf"": 30, ""min_samples_split"": 13, ""n_estimators"": 80}",0.6133,0.6275,4646.32
+2025-03-09 16:06:13,BABA,"{""class_weight"": null, ""max_depth"": 40, ""max_features"": ""log2"", ""min_samples_leaf"": 26, ""min_samples_split"": 26, ""n_estimators"": 85}",0.6134,0.6418,5259.71
+2025-03-09 16:09:16,BABA,"{""class_weight"": null, ""max_depth"": 15, ""max_features"": ""log2"", ""min_samples_leaf"": 26, ""min_samples_split"": 3, ""n_estimators"": 64}",0.6151,0.6275,5442.73
+2025-03-09 17:12:05,BABA,"{""class_weight"": null, ""max_depth"": 200, ""max_features"": ""sqrt"", ""min_samples_leaf"": 26, ""min_samples_split"": 32, ""n_estimators"": 55}",0.6204,0.6017,9210.77
